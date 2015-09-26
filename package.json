@@ -1,0 +1,17 @@
+{
+  "name": "gulp-bootstrap",
+  "version": "0.0.1",
+  "description": "Bootrap project with gulp witch compile your SASS with autoprefixer for older browsers, uglify your JS and reload automatic by BrowserSync. In case of errors you will be notified by Notify",
+  "author": "Raymond Veldhuizen - rveldhuizen.nl",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^2.9.6",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.4",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.4.1"
+  }
+}
